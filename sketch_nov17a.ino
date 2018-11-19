@@ -1,4 +1,6 @@
 // Define the pin numbers
+// https://community.wia.io/d/27-driving-a-dc-motor-with-an-arduino-and-the-l293d-motor-driver
+// https://www.instructables.com/id/Arduino-DC-motor-speed-and-direction-L293D/
 int motorPin1 = 6;
 int motorPin2 = 7;
 char val;
